@@ -23,3 +23,5 @@ WhiteM.xls - The number of individuals in a certain occupation of this demograph
 
 
 income_statistics.xls - Tax return information including: income, income breakdown, and deductions by zip code. 
+
+zip_codes.xlsx - List of North Carolina zip codes and their corresponding counties.
