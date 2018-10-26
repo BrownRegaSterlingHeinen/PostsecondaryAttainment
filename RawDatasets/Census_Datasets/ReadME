@@ -1,0 +1,22 @@
+The following is a brief description of each dataset included:
+
+AsianF.xls - The number of individuals in a certain occupation of this demographic in each county.
+AsianM.xls - The number of individuals in a certain occupation of this demographic in each county.
+BlackF.xls - The number of individuals in a certain occupation of this demographic in each county.
+BlackM.xls - The number of individuals in a certain occupation of this demographic in each county.
+HawaiianF.xls - The number of individuals in a certain occupation of this demographic in each county.
+HawaiianM.xls - The number of individuals in a certain occupation of this demographic in each county.
+HispanicF.xls - The number of individuals in a certain occupation of this demographic in each county.
+HispanicM.xls - The number of individuals in a certain occupation of this demographic in each county.
+IndianF.xls - The number of individuals in a certain occupation of this demographic in each county.
+IndianM.xls - The number of individuals in a certain occupation of this demographic in each county.
+OtherF.xls - The number of individuals in a certain occupation of this demographic in each county.
+OtherM.xls - The number of individuals in a certain occupation of this demographic in each county.
+TotalF.xls - The number of individuals in a certain occupation of this demographic in each county.
+TotalM.xls - The number of individuals in a certain occupation of this demographic in each county.
+TwoRaceF.xls - The number of individuals in a certain occupation of this demographic in each county.
+TwoRaceM.xls - The number of individuals in a certain occupation of this demographic in each county.
+WhiteF.xls - The number of individuals in a certain occupation of this demographic in each county.
+WhiteM.xls - The number of individuals in a certain occupation of this demographic in each county.
+income_statistics.xls - Tax return information including: income, income breakdown, and deductions by zip code. 
+Demographic_Statistics_By_Zip_Code.csv - Race, gender, citizenship, and public asstistance information by zip code.
