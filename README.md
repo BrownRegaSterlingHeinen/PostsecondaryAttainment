@@ -4,11 +4,17 @@ This repository contains work done by Master of Science in Data Science students
 
 ## Data
 
-The data used in this repository is directly available from multiple locations at the following sources:
+The data used in this repository is publicly available from multiple locations at the following sources:
 * [NC Community Colleges: Analytics and Reporting](https://www.nccommunitycolleges.edu/analytics)
-* [National Center for Education Statistics](https://nces.ed.gov/ipeds/datacenter/reportmain.aspx?stepId=5)  
+* [National Center for Education Statistics](https://nces.ed.gov/ipeds/datacenter/reportmain.aspx?stepId=5) 
+* [North Carolina Office of State Budget and Management (OSBM)](http://www.osbm.nc.gov/facts-figures/nc-census-data/nc-census-lookup/decennial-census-occupation-reports-north-carolina-2000)  
+* [Internal Revenue Service (IRS)](http://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2016-zip-code-data-soi)  
 
 This is an open source repository and all code is written in Python and available for review via iPython Notebooks.
+
+## Data Documentation 
+The following data dictionary lists column names along with a brief description for all fields in order to better understand the data:
+* [**Data_Dictionary_Full.pdf**](http://nbviewer.jupyter.org/github/BrownRegaSterlingHeinen/PostsecondaryAttainment/blob/master/Data%20Documentation/Data_Dictionary_Full.pdf)
 
 ## References
 
@@ -19,3 +25,5 @@ This is an extension of the work done to identify factors that lead to education
 
 Please cite this repository if you choose to use it for your own work. You can contact our team at any of the following email addresses:  
 &nbsp;&nbsp;&nbsp;&nbsp;noelleb@smu.edu, mrega@smu.edu, lsterling@smu.edu, or jheinen@smu.edu
+
+Brown, N., Heinen, J., Rega, M., & Sterling, L. (2018). Postsecondary Attainment: Identifying Areas to Improve Retention and On-Time Graduation Rates for North Carolina Community Colleges, GitHub repository, https://github.com/BrownRegaSterlingHeinen/PostsecondaryAttainment
