@@ -26,4 +26,4 @@ This is an extension of the work done to identify factors that lead to education
 Please cite this repository if you choose to use it for your own work. You can contact our team at any of the following email addresses:  
 &nbsp;&nbsp;&nbsp;&nbsp;noelleb@smu.edu, mrega@smu.edu, lsterling@smu.edu, or jheinen@smu.edu
 
-&nbsp;&nbsp;&nbsp;&nbsp;Brown, N., Heinen, J., Rega, M., & Sterling, L. (2018). Postsecondary Attainment: Identifying Areas to Improve &nbsp;&nbsp;&nbsp;&nbsp;Retention and On-Time Graduation Rates for North Carolina Community Colleges, GitHub repository, &nbsp;&nbsp;&nbsp;&nbsp;https://github.com/BrownRegaSterlingHeinen/PostsecondaryAttainment
+&nbsp;&nbsp;&nbsp;&nbsp;Brown, N., Heinen, J., Rega, M., & Sterling, L. (2018). Postsecondary Attainment: Identifying Areas to Improve   &nbsp;&nbsp;&nbsp;&nbsp;Retention and On-Time Graduation Rates for North Carolina Community Colleges, GitHub repository,   &nbsp;&nbsp;&nbsp;&nbsp;https://github.com/BrownRegaSterlingHeinen/PostsecondaryAttainment
