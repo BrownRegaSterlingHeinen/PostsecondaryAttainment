@@ -19,11 +19,11 @@ The following data dictionary lists column names along with a brief description 
 ## References
 
 This is an extension of the work done to identify factors that lead to educational attainment of North Carolina public schools by Dr. Jake Drew:  
-&nbsp;&nbsp;&nbsp;&nbsp;Drew J., The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools, (2018), GitHub repository, https://github.com/jakemdrew/EducationDataNC
+* Drew J., The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools, (2018), GitHub repository, https://github.com/jakemdrew/EducationDataNC
 
 ## Contact
 
 Please cite this repository if you choose to use it for your own work. You can contact our team at any of the following email addresses:  
 &nbsp;&nbsp;&nbsp;&nbsp;noelleb@smu.edu, mrega@smu.edu, lsterling@smu.edu, or jheinen@smu.edu
 
-&nbsp;&nbsp;&nbsp;&nbsp;Brown, N., Heinen, J., Rega, M., & Sterling, L. (2018). Postsecondary Attainment: Identifying Areas to Improve Retention and On-Time Graduation Rates for North Carolina Community Colleges, GitHub repository, https://github.com/BrownRegaSterlingHeinen/PostsecondaryAttainment
+* Brown, N., Heinen, J., Rega, M., & Sterling, L. (2018). Postsecondary Attainment: Identifying Areas to Improve Retention and On-Time Graduation Rates for North Carolina Community Colleges, GitHub repository, https://github.com/BrownRegaSterlingHeinen/PostsecondaryAttainment
