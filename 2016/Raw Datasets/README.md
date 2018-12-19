@@ -1,4 +1,4 @@
-# Raw Datasets - http://ncpublicschools.org
+# Raw Datasets
 There were a total of 4 data sources used to create the consolidated Community College datasets for 2016.  
 
 ## Data Sources 
