@@ -1,0 +1,76 @@
+UnitId,College Name,FirstTimeFullTimeUndergradsTotal,Financial_Aid_AnyAid,Financial_Aid_FedGrants,FedGrants_Avg,Financial_Aid_StateLocalGrants,StateLocalGrants_Avg,Financial_Aid_InstitutionalGrants,InstitutionalGrants_Avg,Financial_Aid_Loans,Loans_Avg
+197814,College of the Albemarle,238,160,126,5050,51,1677,24,1246,1,9500
+197850,South Piedmont Community College,162,114,88,4885,36,1445,0,,3,4467
+197869,Appalachian State University,3047,2078,815,4329,871,3191,1091,3356,1483,5618
+197887,Asheville-Buncombe Technical Community College,502,369,308,4800,99,1604,38,1289,64,6816
+197966,Beaufort County Community College,120,94,82,4680,37,844,35,1022,1,10000
+198011,Bladen Community College,107,79,72,2085,12,672,7,628,0,0
+198039,Blue Ridge Community College,150,115,94,4228,23,1526,18,1670,32,6275
+198084,Brunswick Community College,147,100,84,5122,16,2284,6,1125,2,7016
+198118,Caldwell Community College and Technical Institute,365,255,240,4027,117,905,34,1350,2,6800
+198154,Cape Fear Community College,1048,666,541,4755,144,1090,48,1413,228,5771
+198206,Carteret Community College,124,86,73,5004,20,810,15,554,0,0
+198233,Catawba Valley Community College,534,296,243,4626,100,1020,20,830,36,4429
+198251,Central Carolina Community College,548,348,324,4475,143,917,45,1041,0,0
+198260,Central Piedmont Community College,1592,1072,795,4243,251,1280,26,1769,24,6172
+198321,Cleveland Community College,240,190,184,4728,41,1295,6,583,0,0
+198330,Coastal Carolina Community College,475,293,242,4289,100,1229,17,1451,1,10000
+198367,Craven Community College,201,201,170,4354,62,1280,30,1087,0,0
+198376,Davidson County Community College,391,287,228,5037,83,1671,53,795,89,5758
+198455,Durham Technical Community College,160,109,79,4734,26,1361,48,1168,26,7472
+198464,East Carolina University,4244,3198,1353,4500,1321,2675,1762,3611,2609,7041
+198491,Edgecombe Community College,161,153,145,4194,12,1251,15,1468,61,5933
+198507,Elizabeth City State University,264,256,208,5591,210,4081,138,3599,194,5461
+198534,Fayetteville Technical Community College,1056,852,687,5044,152,1361,21,1298,456,5185
+198543,Fayetteville State University,627,469,389,5292,419,2300,455,2715,360,5326
+198552,Forsyth Technical Community College,738,492,422,4173,133,1161,2,603,96,4686
+198570,Gaston College,422,300,247,4514,26,1134,10,1524,0,0
+198622,Guilford Technical Community College,1218,911,768,4336,251,1370,52,941,368,4227
+198640,Halifax Community College,198,124,109,5213,20,1413,12,884,3,4556
+198668,Haywood Community College,94,74,58,4789,18,1500,31,880,1,15200
+198710,Isothermal Community College,231,218,170,4810,55,1572,146,2349,0,0
+198729,James Sprunt Community College,100,82,82,4971,19,1418,6,3000,0,0
+198774,Johnston Community College,415,244,210,4693,71,1224,23,1632,7,5691
+198817,Lenoir Community College,247,208,172,5175,34,1526,53,1115,2,7150
+198905,Martin Community College,42,42,34,4974,22,1300,1,750,0,0
+198914,Mayland Community College,88,78,59,4600,30,1869,10,880,0,0
+198923,McDowell Technical Community College,74,57,47,4823,25,1435,2,1971,0,0
+198987,Mitchell Community College,319,204,178,4504,106,976,27,939,2,3600
+199023,Montgomery Community College,74,53,34,5210,13,1730,14,2297,1,16000
+199087,Nash Community College,348,277,224,4435,47,1291,62,718,68,5239
+199102,North Carolina A & T State University,1773,1532,1039,5109,850,2858,1176,2990,1336,6302
+199111,University of North Carolina at Asheville,734,555,240,4363,297,2445,451,3870,389,5681
+199120,University of North Carolina at Chapel Hill,4073,2588,871,4655,736,4021,1689,14036,1165,6665
+199139,University of North Carolina at Charlotte,3438,2468,1133,4481,1141,2843,965,4432,1923,6793
+199148,University of North Carolina at Greensboro,2757,2321,1442,4547,1466,3112,1672,2731,1840,5827
+199157,North Carolina Central University,1101,1063,852,5552,756,2714,907,2589,937,6715
+199184,University of North Carolina School of the Arts,199,156,52,4864,30,4183,134,5841,114,7184
+199193,North Carolina State University at Raleigh,4359,2993,816,4475,865,4046,2102,7464,1887,6383
+199218,University of North Carolina Wilmington,2023,1442,468,4557,492,3007,1002,2536,1043,6596
+199263,Pamlico Community College,39,12,10,4903,3,1446,7,1757,0,0
+199281,University of North Carolina at Pembroke,1216,1103,752,4831,799,2416,466,1831,894,5558
+199324,Piedmont Community College,164,102,78,4842,35,1441,20,1174,0,0
+199333,Pitt Community College,863,693,554,4950,170,1200,138,1430,262,5717
+199421,Randolph Community College,234,177,146,4609,54,1423,34,829,2,6288
+199449,Richmond Community College,233,209,189,5293,30,1296,25,906,0,0
+199467,Roanoke-Chowan Community College,65,62,60,5891,16,779,2,334,0,0
+199476,Robeson Community College,195,173,166,3151,53,421,39,220,0,0
+199485,Rockingham Community College,200,151,120,4737,44,1348,46,1350,1,17000
+199494,Rowan-Cabarrus Community College,535,388,318,4895,49,3707,44,2672,4,4700
+199625,Sampson Community College,165,104,84,4022,28,1136,21,1645,0,0
+199634,Sandhills Community College,285,211,168,4255,56,1527,45,672,0,0
+199722,Southeastern Community College,228,210,149,4344,38,1556,82,1360,0,0
+199731,Southwestern Community College,202,172,144,4906,44,1524,19,1133,15,5039
+199740,Stanly Community College,240,157,136,4655,53,1596,27,1480,0,0
+199768,Surry Community College,379,272,183,4532,93,1603,21,793,6,5750
+199786,Alamance Community College,567,397,316,4905,131,1467,91,1648,5,3740
+199795,Tri-County Community College,89,80,73,4945,24,1335,7,821,0,0
+199838,Vance-Granville Community College,227,162,139,4904,32,1381,29,742,3,9175
+199856,Wake Technical Community College,1626,972,652,4625,255,1361,35,644,473,6001
+199892,Wayne Community College,400,270,236,5624,40,2209,1,662,0,0
+199908,Western Piedmont Community College,210,172,150,4684,49,1455,22,747,1,5000
+199926,Wilkes Community College,289,213,169,4242,65,1563,31,516,16,3546
+199953,Wilson Community College,162,137,118,4599,34,1170,24,783,38,3185
+199999,Winston-Salem State University,865,833,667,5184,609,2554,523,2874,743,6212
+200004,Western Carolina University,1624,1375,647,4530,656,3109,1110,1980,1051,5809
+433174,Carolinas College of Health Sciences,4,3,3,5142,2,4500,1,1000,2,23933
