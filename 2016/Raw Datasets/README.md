@@ -10,6 +10,6 @@ There were a total of 4 data sources used to create the consolidated Community C
 ## Source Code
 **Click on each of the notebook names below to preview the code using the [Nbviewer](nbviewer.jupyter.org).**
 
-* [**Census_Data_Scraping.ipynb**](http://nbviewer.jupyter.org/github/BrownRegaSterlingHeinen/PostsecondaryAttainment/blob/master/2016/NCCC%20Datasets/Source%20Code/Cenus_Data_Scraping.ipynb) - Python code to scrape the Census datasets from the IRS and OSBM websites. 
-* [**PDFtoCSV_Code.ipynb**](http://nbviewer.jupyter.org/github/BrownRegaSterlingHeinen/PostsecondaryAttainment/blob/master/2016/NCCC%20Datasets/Source%20Code/PDFtoCSV_Code.ipynb) - Python code to transform the PDFs scraped from websites to workable CSV files.  
+* [**Census_Data_Scraping.ipynb**](http://nbviewer.jupyter.org/github/BrownRegaSterlingHeinen/PostsecondaryAttainment/blob/master/2016/Raw%20Datasets/Source%20Code/Cenus_Data_Scraping.ipynb) - Python code to scrape the Census datasets from the IRS and OSBM websites. 
+* [**PDFtoCSV_Code.ipynb**](http://nbviewer.jupyter.org/github/BrownRegaSterlingHeinen/PostsecondaryAttainment/blob/master/2016/Raw%20Datasets/Source%20Code/PDFtoCSV_Code.ipynb) - Python code to transform the PDFs scraped from websites to workable CSV files.  
 
