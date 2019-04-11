@@ -2,6 +2,8 @@ The following is a brief description of each dataset included:
 
 The below datasets are found at: https: //www.osbm.nc.gov/facts-figures/nc-census-data/nc-census-lookup/decennial-census-occupation-reports-north-carolina-2000
 
+Halfway down on the right side of the screen there is a light blue box titled “Occupation Report Supplements”. Each of those links is an excel file.
+
 AsianF.xls - The number of individuals in a certain occupation of this demographic in each county.  
 AsianM.xls - The number of individuals in a certain occupation of this demographic in each county.  
 BlackF.xls - The number of individuals in a certain occupation of this demographic in each county.  
@@ -22,6 +24,8 @@ WhiteF.xls - The number of individuals in a certain occupation of this demograph
 WhiteM.xls - The number of individuals in a certain occupation of this demographic in each county.  
 
 The below datasets are found at: https: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2016-zip-code-data-soi
+
+Click on North Carolina on the map and an excel file will download
 
 income_statistics.xls - Tax return information including: income, income breakdown, and deductions by zip code. 
 
